@@ -1,3 +1,8 @@
-import hello from './hello.js';
+import App from './App.svelte';
 
-hello();
+new App({
+	target: document.body,
+	props: {
+		name: 'world'
+	}
+});
