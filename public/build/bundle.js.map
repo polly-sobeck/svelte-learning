@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","sources":["../../src/hello.js","../../src/main.js"],"sourcesContent":["export default () => {\nconsole.log('hello!');\n}\n","import hello from './hello.js';\n\nhello();\n"],"names":[],"mappings":"AAAA,YAAe,MAAM;AACrB,OAAO,CAAC,GAAG,CAAC,QAAQ,CAAC,CAAC;AACtB;;ACAA,KAAK,EAAE"}
