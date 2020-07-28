@@ -1,8 +1,8 @@
 import App from './App.svelte';
 
 new App({
-	target: document.body,
-	props: {
+	target: document.body,  //only required option
+	props: {                // allows app to expose props
 		name: 'world'
 	}
 });
