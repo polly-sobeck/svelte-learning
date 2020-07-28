@@ -1,2 +1,2 @@
 # svelte-learning
-Learning Svelte through the Front End Masters Svelte course
+Learning Svelte through the Frontend Masters Svelte course
